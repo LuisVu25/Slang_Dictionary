@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ef37f96-ef62-4c5a-98a0-dc9360105ba1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionary.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dictionary/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dictionary/SlangDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dictionary/dicHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dictionary/quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="5ef37f96-ef62-4c5a-98a0-dc9360105ba1" name="Changes" comment="28112022">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +19,32 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1669651165" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1669651164" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -42,7 +59,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+    "last_opened_file_path": "C:/Users/vudhu/OneDrive/Máy tính/test/Slang",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "ide.date.format"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -53,8 +72,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669645876402</updated>
-      <workItem from="1669645879951" duration="2786000" />
+      <workItem from="1669645879951" duration="4834000" />
+      <workItem from="1669652103836" duration="1435000" />
+      <workItem from="1669691706145" duration="2762000" />
     </task>
+    <task id="LOCAL-00001" summary="28112022">
+      <created>1669650126291</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669650126291</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +99,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="28112022" />
+    <option name="LAST_COMMIT_MESSAGE" value="28112022" />
   </component>
 </project>
