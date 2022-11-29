@@ -124,10 +124,7 @@ public class SlangForm extends JPanel implements ActionListener {
         historyPanel = new JPanel();
         historyPanel.setLayout(new BoxLayout(historyPanel, BoxLayout.Y_AXIS));
         historyArea = new JTextArea();
-        //historyArea.setText("Time\t        |  Search history");
         JLabel historyLabel = new JLabel("Search history");
-        //historyPanel.add(historyArea);
-        // historyArea.setPreferredSize(new Dimension(0,200));
         historyArea.setEditable(false);
         historyPane = new JScrollPane(historyArea);
         historyPane.setPreferredSize(new Dimension(500, 100));

@@ -78,8 +78,8 @@ public class SlangApp implements ActionListener{
             Font font = label.getFont();
             // html content
             JEditorPane ep = new JEditorPane("text/html", "<html><body>" //
-                    + "<h5>Nguyen Van Tan Phong - 19127646 </h5>"
-                    + "See me at this <a href=\"https://github.com/JrMasterno1/Java-Dictionary\">link</a>" //
+                    + "<h5>Vũ Đức Hưng- 19126006</h5>"
+                    + "See me at this <a href=\"https://github.com/LuisVu25/Slang_Dictionary\">link</a>" //
                     + "</body></html>");
 
             // handle link events
